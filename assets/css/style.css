@@ -1014,7 +1014,6 @@ img {
 .service-box .s-description {
   color: #4e4e4e;
 }
-
 /*======================================
 //--//-->   COUNTER
 ======================================*/
@@ -1642,15 +1641,15 @@ footer .credits a {
     margin-right: 30px;
   }
   .swiper-slide {
-    height: 350px !important;
-    width:200px !important;
+    height: 200px !important;
+    width:300px !important;
     margin: 50px;
     box-shadow: 0 0 2px #e5e5e5;
     cursor: pointer;
 }
 .swiper-slide > img {
-    height: 350px !important;
-    width:200px;
+    height: 200px !important;
+    width:300px;
 }
 html{
   scroll-behavior: smooth;
